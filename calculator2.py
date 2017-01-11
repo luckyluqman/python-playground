@@ -20,6 +20,11 @@ def cube(a):
 print "I'm going use the calculator functions to multiply 5 and 6"
 x = multiply(5,6)
 print x
-=======
-	return a / b
->>>>>>> d4a9b7fc1b42f47b2d886351efa7fd91dd71adec
+
+print "I'm going to use calculator to square operation"
+y = square(5)
+print y
+
+print "I'm going to use calculator to square operation"
+z = cube(5)
+print z
