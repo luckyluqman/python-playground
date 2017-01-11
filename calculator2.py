@@ -8,6 +8,7 @@ def subtract (a,b):
 	return a - b
 
 def divide (a,b):
+<<<<<<< HEAD
 	return a / b
 
 def square(a):
@@ -19,3 +20,6 @@ def cube(a):
 print "I'm going use the calculator functions to multiply 5 and 6"
 x = multiply(5,6)
 print x
+=======
+	return a / b
+>>>>>>> d4a9b7fc1b42f47b2d886351efa7fd91dd71adec
